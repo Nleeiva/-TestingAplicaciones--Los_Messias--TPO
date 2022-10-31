@@ -5,4 +5,3 @@ Integrantes:
 Tomas Gonzalez
 Nicolas Leiva
 Lucas Roldan
-Bono Dispacce
